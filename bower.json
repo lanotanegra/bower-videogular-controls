@@ -1,8 +1,8 @@
 {
-  "name": "videogular-controls",
+  "name": "videogular-odilo-controls",
   "version": "1.4.4",
   "main": "./vg-controls.js",
   "dependencies": {
-    "videogular": "~1.4.4"
+    "videogular-odilo": "~1.4.4"
   }
 }
